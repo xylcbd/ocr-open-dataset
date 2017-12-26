@@ -1,5 +1,5 @@
-# ocr-open-database
-list all open database about ocr.
+# ocr-open-dataset
+list all open dataset about ocr.
 
 ## printed
 |database|Year|
