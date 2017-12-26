@@ -11,7 +11,7 @@ list all open dataset about ocr.
 |[Text in Videos](http://rrc.cvc.uab.es/?ch=3&com=introduction)| 2013-2015 |
 |[Incidental Scene Text](http://rrc.cvc.uab.es/?ch=4&com=introduction)| 2015 |
 |[The Chars74K dataset](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/)| 2009 |
-|[The Uber Text dataset|(https://s3-us-west-2.amazonaws.com/uber-common-public/ubertext/index.html)| 2017 |
+|[The Uber Text dataset](https://s3-us-west-2.amazonaws.com/uber-common-public/ubertext/index.html)| 2017 |
 |[The Street View Text Dataset](http://www.iapr-tc11.org/mediawiki/index.php?title=The_Street_View_Text_Dataset)| 2012|
 |[The Street View House Numbers (SVHN) Dataset](http://ufldl.stanford.edu/housenumbers/) | 2011 |
 
